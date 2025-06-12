@@ -1,146 +1,246 @@
-product_code,image_url,status
-0.5W-13V,,"Eroare: Message: 
+sku,product_code,image_url,status
+36874416,0.5W-13V,,"Eroare: Message: 
 Stacktrace:
 RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
 WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
 NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
 dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
 "
-0.5W-6V8,,"Eroare: Message: 
+19670291,0.5W-6V8,,"Eroare: Message: 
 Stacktrace:
 RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
 WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
 NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
 dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
 "
-00.08095.200030,,"Eroare: Message: 
+54485979,00.08095.200030,,"Eroare: Message: 
 Stacktrace:
 RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
 WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
 NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
 dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
 "
-00.08141.600000,,"Eroare: Message: 
+54486036,00.08141.600000,,"Eroare: Message: 
 Stacktrace:
 RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
 WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
 NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
 dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
 "
-00.14575.400000,,"Eroare: Message: 
+54486555,00.14575.400000,,"Eroare: Message: 
 Stacktrace:
 RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
 WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
 NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
 dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
 "
-00.14966.748000,,"Eroare: Message: 
+54486333,00.14966.748000,,"Eroare: Message: 
 Stacktrace:
 RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
 WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
 NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
 dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
 "
-00.15184.540020,,"Eroare: Message: 
+54483681,00.15184.540020,,"Eroare: Message: 
 Stacktrace:
 RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
 WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
 NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
 dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
 "
-00.95800.010000,,"Eroare: Message: 
+54486234,00.95800.010000,,"Eroare: Message: 
 Stacktrace:
 RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
 WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
 NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
 dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
 "
-0001.2502,https://ce8dc832c.cloudimg.io/v7/_cdn_/4A/DD/00/00/0/56740_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=31b9403165ba17001dfb200ec8b154c2005e5a91,OK
-0001.2504,https://ce8dc832c.cloudimg.io/v7/_cdn_/4A/DD/00/00/0/56740_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=31b9403165ba17001dfb200ec8b154c2005e5a91,OK
-0001.2507,https://ce8dc832c.cloudimg.io/v7/_cdn_/4A/DD/00/00/0/56740_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=31b9403165ba17001dfb200ec8b154c2005e5a91,OK
-0001.2508,https://ce8dc832c.cloudimg.io/v7/_cdn_/4A/DD/00/00/0/56740_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=31b9403165ba17001dfb200ec8b154c2005e5a91,OK
-0001.2509,https://ce8dc832c.cloudimg.io/v7/_cdn_/4A/DD/00/00/0/56740_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=31b9403165ba17001dfb200ec8b154c2005e5a91,OK
-0001.2510,https://ce8dc832c.cloudimg.io/v7/_cdn_/4A/DD/00/00/0/56740_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=31b9403165ba17001dfb200ec8b154c2005e5a91,OK
-0001.2512,https://ce8dc832c.cloudimg.io/v7/_cdn_/4A/DD/00/00/0/56740_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=31b9403165ba17001dfb200ec8b154c2005e5a91,OK
-0001.2514.PT,https://ce8dc832c.cloudimg.io/v7/_cdn_/5B/DD/00/00/0/56757_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=76b089d6acb8bfad229d9bd7f512bb75513051e9,OK
-0001.2515,https://ce8dc832c.cloudimg.io/v7/_cdn_/4A/DD/00/00/0/56740_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=31b9403165ba17001dfb200ec8b154c2005e5a91,OK
-0001.2516,https://ce8dc832c.cloudimg.io/v7/_cdn_/4A/DD/00/00/0/56740_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=31b9403165ba17001dfb200ec8b154c2005e5a91,OK
-0031.1081,https://ce8dc832c.cloudimg.io/v7/_cdn_/F4/7C/50/00/0/378703_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=f2d7c4c6b6f8b4abdf73d9db010b7cdf96de3c9e,OK
-0031.2308,https://ce8dc832c.cloudimg.io/v7/_cdn_/5A/26/60/00/0/418469_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=8065f5ca6169197154376934b2a3912d35a88611,OK
-0034.1519,https://ce8dc832c.cloudimg.io/v7/_cdn_/4B/DD/00/00/0/56756_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=7b9943f33729339456d5370032b4f43a8b9e8a19,OK
-0034.2526,https://ce8dc832c.cloudimg.io/v7/_cdn_/BB/A0/D0/00/0/854715_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=9942b7cffacb365833e82b0af55193670cf01c2e,OK
-0034.3126,https://ce8dc832c.cloudimg.io/v7/_cdn_/4B/DD/00/00/0/56756_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=7b9943f33729339456d5370032b4f43a8b9e8a19,OK
-0034.6007,https://ce8dc832c.cloudimg.io/v7/_cdn_/7B/DD/00/00/0/56759_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=9ba7a2c1572e3c6bb487b06e9e5bdb3ae2b287db,OK
-0034.6019,https://ce8dc832c.cloudimg.io/v7/_cdn_/7B/DD/00/00/0/56759_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=9ba7a2c1572e3c6bb487b06e9e5bdb3ae2b287db,OK
-0034.6613,https://ce8dc832c.cloudimg.io/v7/_cdn_/8B/DD/00/00/0/56760_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=9d1545cc60eb692b2d3f258a9c0d0fcacd906144,OK
-010004-KIT,https://ce8dc832c.cloudimg.io/v7/_cdn_/AE/C2/E0/00/0/929002_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=b7ddbfd5158412f84afff95739582e8a1f76683a,OK
-010014-KIT,https://ce8dc832c.cloudimg.io/v7/_cdn_/CE/C2/E0/00/0/929004_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=a324dd6cf436bd786d70b74ab27b24adbb468417,OK
-0100370,https://ce8dc832c.cloudimg.io/v7/_cdn_/14/2D/70/00/0/512577_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=4899c600b4050c178cd13faa4526894cf39e6880,OK
-0104110000002617,,"Eroare: Message: 
+47648316,0001.2502,https://ce8dc832c.cloudimg.io/v7/_cdn_/4A/DD/00/00/0/56740_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=31b9403165ba17001dfb200ec8b154c2005e5a91,OK
+47648349,0001.2504,https://ce8dc832c.cloudimg.io/v7/_cdn_/4A/DD/00/00/0/56740_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=31b9403165ba17001dfb200ec8b154c2005e5a91,OK
+47648385,0001.2507,https://ce8dc832c.cloudimg.io/v7/_cdn_/4A/DD/00/00/0/56740_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=31b9403165ba17001dfb200ec8b154c2005e5a91,OK
+20864381,0001.2508,https://ce8dc832c.cloudimg.io/v7/_cdn_/4A/DD/00/00/0/56740_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=31b9403165ba17001dfb200ec8b154c2005e5a91,OK
+47648409,0001.2509,https://ce8dc832c.cloudimg.io/v7/_cdn_/4A/DD/00/00/0/56740_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=31b9403165ba17001dfb200ec8b154c2005e5a91,OK
+38522067,0001.2510,https://ce8dc832c.cloudimg.io/v7/_cdn_/4A/DD/00/00/0/56740_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=31b9403165ba17001dfb200ec8b154c2005e5a91,OK
+36169050,0001.2512,https://ce8dc832c.cloudimg.io/v7/_cdn_/4A/DD/00/00/0/56740_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=31b9403165ba17001dfb200ec8b154c2005e5a91,OK
+34349061,0001.2514.PT,https://ce8dc832c.cloudimg.io/v7/_cdn_/5B/DD/00/00/0/56757_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=76b089d6acb8bfad229d9bd7f512bb75513051e9,OK
+20162069,0001.2515,https://ce8dc832c.cloudimg.io/v7/_cdn_/4A/DD/00/00/0/56740_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=31b9403165ba17001dfb200ec8b154c2005e5a91,OK
+39897012,0001.2516,https://ce8dc832c.cloudimg.io/v7/_cdn_/4A/DD/00/00/0/56740_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=31b9403165ba17001dfb200ec8b154c2005e5a91,OK
+20873651,0031.1081,https://ce8dc832c.cloudimg.io/v7/_cdn_/F4/7C/50/00/0/378703_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=f2d7c4c6b6f8b4abdf73d9db010b7cdf96de3c9e,OK
+20897603,0031.2308,https://ce8dc832c.cloudimg.io/v7/_cdn_/5A/26/60/00/0/418469_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=8065f5ca6169197154376934b2a3912d35a88611,OK
+56692800,0034.1519,https://ce8dc832c.cloudimg.io/v7/_cdn_/4B/DD/00/00/0/56756_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=7b9943f33729339456d5370032b4f43a8b9e8a19,OK
+51785457,0034.2526,https://ce8dc832c.cloudimg.io/v7/_cdn_/BB/A0/D0/00/0/854715_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=9942b7cffacb365833e82b0af55193670cf01c2e,OK
+43456419,0034.3126,https://ce8dc832c.cloudimg.io/v7/_cdn_/4B/DD/00/00/0/56756_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=7b9943f33729339456d5370032b4f43a8b9e8a19,OK
+20864780,0034.6007,https://ce8dc832c.cloudimg.io/v7/_cdn_/7B/DD/00/00/0/56759_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=9ba7a2c1572e3c6bb487b06e9e5bdb3ae2b287db,OK
+54268377,0034.6019,https://ce8dc832c.cloudimg.io/v7/_cdn_/7B/DD/00/00/0/56759_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=9ba7a2c1572e3c6bb487b06e9e5bdb3ae2b287db,OK
+40493052,0034.6613,https://ce8dc832c.cloudimg.io/v7/_cdn_/8B/DD/00/00/0/56760_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=9d1545cc60eb692b2d3f258a9c0d0fcacd906144,OK
+45155603,010004-KIT,https://ce8dc832c.cloudimg.io/v7/_cdn_/AE/C2/E0/00/0/929002_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=b7ddbfd5158412f84afff95739582e8a1f76683a,OK
+45155672,010014-KIT,https://ce8dc832c.cloudimg.io/v7/_cdn_/CE/C2/E0/00/0/929004_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=a324dd6cf436bd786d70b74ab27b24adbb468417,OK
+39996750,0100370,https://ce8dc832c.cloudimg.io/v7/_cdn_/14/2D/70/00/0/512577_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=4899c600b4050c178cd13faa4526894cf39e6880,OK
+39930741,0104110000002617,,"Eroare: Message: 
 Stacktrace:
 RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
 WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
 NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
 dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
 "
-0104110000002679,,"Eroare: Message: 
+41423529,0104110000002679,,"Eroare: Message: 
 Stacktrace:
 RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
 WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
 NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
 dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
 "
-0104110000082732,,"Eroare: Message: 
+46425242,0104110000082732,,"Eroare: Message: 
 Stacktrace:
 RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
 WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
 NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
 dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
 "
-0104110000087669,,"Eroare: Message: 
+46425341,0104110000087669,,"Eroare: Message: 
 Stacktrace:
 RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
 WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
 NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
 dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
 "
-0104210000004847,,"Eroare: Message: 
+41517003,0104210000004847,,"Eroare: Message: 
 Stacktrace:
 RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
 WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
 NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
 dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
 "
-0116.9-00,,"Eroare: Message: 
+34358340,0116.9-00,,"Eroare: Message: 
 Stacktrace:
 RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
 WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
 NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
 dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
 "
-013-6,https://ce8dc832c.cloudimg.io/v7/_cdn_/09/1C/60/00/0/442768_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=7cd684b007abfbf14d13e227de3f07eb4f7ef0ba,OK
-01530007Z,https://ce8dc832c.cloudimg.io/v7/_cdn_/26/6C/70/00/0/509538_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=08f135d40d6b02213bc9c702d0f592a61e7af5f8,OK
-02-554/DIG,,"Eroare: Message: 
+46953777,013-6,https://ce8dc832c.cloudimg.io/v7/_cdn_/09/1C/60/00/0/442768_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=7cd684b007abfbf14d13e227de3f07eb4f7ef0ba,OK
+41582832,01530007Z,https://ce8dc832c.cloudimg.io/v7/_cdn_/26/6C/70/00/0/509538_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=08f135d40d6b02213bc9c702d0f592a61e7af5f8,OK
+50695617,02-554/DIG,,"Eroare: Message: 
 Stacktrace:
 RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
 WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
 NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
 dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
 "
-0211345121,https://ce8dc832c.cloudimg.io/v7/_cdn_/6C/2E/A0/00/0/713414_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=f5f54776ed308c50d0086c416ea5cc6b901d865a,OK
-0215005.HXP,https://ce8dc832c.cloudimg.io/v7/_cdn_/4A/DD/00/00/0/56740_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=31b9403165ba17001dfb200ec8b154c2005e5a91,OK
-0215005.MXP,https://ce8dc832c.cloudimg.io/v7/_cdn_/4A/DD/00/00/0/56740_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=31b9403165ba17001dfb200ec8b154c2005e5a91,OK
-0215005.XHP,,"Eroare: Message: 
+48954039,0211345121,https://ce8dc832c.cloudimg.io/v7/_cdn_/6C/2E/A0/00/0/713414_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=f5f54776ed308c50d0086c416ea5cc6b901d865a,OK
+19605440,0215005.HXP,https://ce8dc832c.cloudimg.io/v7/_cdn_/4A/DD/00/00/0/56740_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=31b9403165ba17001dfb200ec8b154c2005e5a91,OK
+31957979,0215005.MXP,https://ce8dc832c.cloudimg.io/v7/_cdn_/4A/DD/00/00/0/56740_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=31b9403165ba17001dfb200ec8b154c2005e5a91,OK
+32628449,0215005.XHP,,"Eroare: Message: 
 Stacktrace:
 RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
 WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
 NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
 dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
 "
-0215010.HXP,https://ce8dc832c.cloudimg.io/v7/_cdn_/4A/DD/00/00/0/56740_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=31b9403165ba17001dfb200ec8b154c2005e5a91,OK
-0215020.MXP,https://ce8dc832c.cloudimg.io/v7/_cdn_/4A/DD/00/00/0/56740_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=31b9403165ba17001dfb200ec8b154c2005e5a91,OK
-0217002.HXP,https://ce8dc832c.cloudimg.io/v7/_cdn_/4B/DD/00/00/0/56756_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=7b9943f33729339456d5370032b4f43a8b9e8a19,OK
-02173.15HXP,https://ce8dc832c.cloudimg.io/v7/_cdn_/4B/DD/00/00/0/56756_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=7b9943f33729339456d5370032b4f43a8b9e8a19,OK
-0218.125HXP,https://ce8dc832c.cloudimg.io/v7/_cdn_/4B/DD/00/00/0/56756_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=7b9943f33729339456d5370032b4f43a8b9e8a19,OK
-0218001.HXP,https://ce8dc832c.cloudimg.io/v7/_cdn_/4B/DD/00/00/0/56756_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=7b9943f33729339456d5370032b4f43a8b9e8a19,OK
-0218005.TXP,https://ce8dc832c.cloudimg.io/v7/_cdn_/01/F2/C0/00/0/798480_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=92bc8fe3dd68cc3838b383a7da45bb75822cbcd3,OK
+19113344,0215010.HXP,https://ce8dc832c.cloudimg.io/v7/_cdn_/4A/DD/00/00/0/56740_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=31b9403165ba17001dfb200ec8b154c2005e5a91,OK
+20865044,0215020.MXP,https://ce8dc832c.cloudimg.io/v7/_cdn_/4A/DD/00/00/0/56740_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=31b9403165ba17001dfb200ec8b154c2005e5a91,OK
+20865116,0217002.HXP,https://ce8dc832c.cloudimg.io/v7/_cdn_/4B/DD/00/00/0/56756_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=7b9943f33729339456d5370032b4f43a8b9e8a19,OK
+20606882,02173.15HXP,https://ce8dc832c.cloudimg.io/v7/_cdn_/4B/DD/00/00/0/56756_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=7b9943f33729339456d5370032b4f43a8b9e8a19,OK
+35915490,0218.125HXP,https://ce8dc832c.cloudimg.io/v7/_cdn_/4B/DD/00/00/0/56756_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=7b9943f33729339456d5370032b4f43a8b9e8a19,OK
+20866406,0218001.HXP,https://ce8dc832c.cloudimg.io/v7/_cdn_/4B/DD/00/00/0/56756_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=7b9943f33729339456d5370032b4f43a8b9e8a19,OK
+20866475,0218005.TXP,https://ce8dc832c.cloudimg.io/v7/_cdn_/01/F2/C0/00/0/798480_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=92bc8fe3dd68cc3838b383a7da45bb75822cbcd3,OK
+20693051,02183.15TXP,https://ce8dc832c.cloudimg.io/v7/_cdn_/C5/B9/C0/00/0/826204_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=257ea937d59bd5727718e1861f28f970a742efc7,OK
+51501546,02200007DRT1P,https://ce8dc832c.cloudimg.io/v7/_cdn_/CC/22/C0/00/0/795340_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=9222bcf55d937576bf571544fb2f9bdf921612ad,OK
+65355162,023-6,https://ce8dc832c.cloudimg.io/v7/_cdn_/17/3C/60/00/0/443249_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=a6200d584a4f7d63cb8c293e1350cdad5cd72115,OK
+55829430,0230002.DRT1P,https://ce8dc832c.cloudimg.io/v7/_cdn_/DC/FB/A0/00/0/704461_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=3e4cd8c9ebf3f93d5d1958b00f1ac07de7f32912,OK
+51048888,0234002.MXP,https://ce8dc832c.cloudimg.io/v7/_cdn_/4B/DD/00/00/0/56756_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=7b9943f33729339456d5370032b4f43a8b9e8a19,OK
+20866565,0234008.MXP,https://ce8dc832c.cloudimg.io/v7/_cdn_/4A/DD/00/00/0/56740_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=31b9403165ba17001dfb200ec8b154c2005e5a91,OK
+20866727,023403.5MXP,https://ce8dc832c.cloudimg.io/v7/_cdn_/4B/DD/00/00/0/56756_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=7b9943f33729339456d5370032b4f43a8b9e8a19,OK
+20866826,0239.400MXP,,"Eroare: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+"
+37320963,0242.080UAT1,https://ce8dc832c.cloudimg.io/v7/_cdn_/2C/DD/00/00/0/56770_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=927c1075ce86f7056ed2d1fcce549839e38b6990,OK
+54357033,0287001.PXCN,https://ce8dc832c.cloudimg.io/v7/_cdn_/4A/41/00/00/0/5284_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=897b5712cbab03fb9877ba657d325d709166fd62,OK
+35085687,0287005.PXCN,https://ce8dc832c.cloudimg.io/v7/_cdn_/48/22/10/00/0/74372_1.jpg?width=640&height=480&ci_sign=a569c7a81d30dc720f51428ea57707136882bd9f,OK
+53715273,0287010.PXCN,https://ce8dc832c.cloudimg.io/v7/_cdn_/58/22/10/00/0/74373_1.jpg?width=640&height=480&ci_sign=e80e7a2d789dd2ff25110a7b51032e67e1eadd4b,OK
+51912390,0287015.PXCN,https://ce8dc832c.cloudimg.io/v7/_cdn_/7A/41/00/00/0/5287_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=0d690714d1d05de9dc8293a3877131da0eb29054,OK
+56292489,0297002.WXNV,https://ce8dc832c.cloudimg.io/v7/_cdn_/EA/41/00/00/0/5294_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=a5d2df01aeb527e5819adc1c5b9d4c4fc5243375,OK
+20866949,0297005.WXNV,https://ce8dc832c.cloudimg.io/v7/_cdn_/1B/41/00/00/0/5297_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=3868beb05689adbbfda810f653892b2362d1c1c1,OK
+38026947,0297015.WXNV,https://ce8dc832c.cloudimg.io/v7/_cdn_/3B/41/00/00/0/5299_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=3d72e21e16dddd4ef32c6b3d64081f49cb2a23b2,OK
+20867075,029707.5WXNV,https://ce8dc832c.cloudimg.io/v7/_cdn_/8B/41/00/00/0/5304_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=c35624ea09632a34d6ba14137703cfe18f08a660,OK
+38027172,0300360,https://ce8dc832c.cloudimg.io/v7/_cdn_/FA/86/60/00/0/420015_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=b835b1edb565db36eeb60544af64d1f1c1ce6842,OK
+20639237,0312.250HXP,https://ce8dc832c.cloudimg.io/v7/_cdn_/BC/DD/00/00/0/56779_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=c5031aefb0814cc87d2d6c687794444e50579f63,OK
+20867294,0312.600HXP,https://ce8dc832c.cloudimg.io/v7/_cdn_/BC/DD/00/00/0/56779_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=c5031aefb0814cc87d2d6c687794444e50579f63,OK
+54765078,0312004.HXP,https://ce8dc832c.cloudimg.io/v7/_cdn_/BC/DD/00/00/0/56779_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=c5031aefb0814cc87d2d6c687794444e50579f63,OK
+36170793,0312005.HXP,https://ce8dc832c.cloudimg.io/v7/_cdn_/BC/DD/00/00/0/56779_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=c5031aefb0814cc87d2d6c687794444e50579f63,OK
+23537789,0312008.HXP,https://ce8dc832c.cloudimg.io/v7/_cdn_/BC/DD/00/00/0/56779_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=c5031aefb0814cc87d2d6c687794444e50579f63,OK
+23537876,0312010.HXP,https://ce8dc832c.cloudimg.io/v7/_cdn_/BC/DD/00/00/0/56779_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=c5031aefb0814cc87d2d6c687794444e50579f63,OK
+44900507,031202.5HXP,https://ce8dc832c.cloudimg.io/v7/_cdn_/BC/DD/00/00/0/56779_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=c5031aefb0814cc87d2d6c687794444e50579f63,OK
+20867363,0314005.HXP,https://ce8dc832c.cloudimg.io/v7/_cdn_/CC/DD/00/00/0/56780_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=a39694b1b8b94afd33f949297d1f3f4b565dbd34,OK
+44900372,0314010.HXP,https://ce8dc832c.cloudimg.io/v7/_cdn_/CC/DD/00/00/0/56780_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=a39694b1b8b94afd33f949297d1f3f4b565dbd34,OK
+20867582,0314012.HXP,https://ce8dc832c.cloudimg.io/v7/_cdn_/CC/DD/00/00/0/56780_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=a39694b1b8b94afd33f949297d1f3f4b565dbd34,OK
+44900648,0314025.HXP,https://ce8dc832c.cloudimg.io/v7/_cdn_/CC/DD/00/00/0/56780_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=a39694b1b8b94afd33f949297d1f3f4b565dbd34,OK
+44901092,0314030.HXP,https://ce8dc832c.cloudimg.io/v7/_cdn_/CC/DD/00/00/0/56780_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=a39694b1b8b94afd33f949297d1f3f4b565dbd34,OK
+20867657,0324020.MXP,,"Eroare: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+"
+52836423,03632500,,"Eroare: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+"
+65358144,04025C103KAT2A,https://ce8dc832c.cloudimg.io/v7/_cdn_/B7/F3/E0/00/0/933755_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new_render3d.png&wat_scale=100p&ci_sign=a5b308ceea028cc2c218e8d230a7a62915b28118,OK
+66418926,04025C222KAT2A,https://ce8dc832c.cloudimg.io/v7/_cdn_/B7/F3/E0/00/0/933755_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new_render3d.png&wat_scale=100p&ci_sign=a5b308ceea028cc2c218e8d230a7a62915b28118,OK
+66419574,04026D105KAT2A,https://ce8dc832c.cloudimg.io/v7/_cdn_/DC/DD/00/00/0/56781_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=b72f34a9b8135c2d8bd7d4f76dca558025004701,OK
+39847548,04026D475MAT2A,https://ce8dc832c.cloudimg.io/v7/_cdn_/B7/F3/E0/00/0/933755_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new_render3d.png&wat_scale=100p&ci_sign=a5b308ceea028cc2c218e8d230a7a62915b28118,OK
+66419007,0402B104K500CT,https://ce8dc832c.cloudimg.io/v7/_cdn_/B7/F3/E0/00/0/933755_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new_render3d.png&wat_scale=100p&ci_sign=a5b308ceea028cc2c218e8d230a7a62915b28118,OK
+66428253,0402DF-271XJRU,,"Eroare: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+"
+32389571,0440001.WR,https://ce8dc832c.cloudimg.io/v7/_cdn_/D1/5B/A0/00/0/701725_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=c68102631412e826be3de326516a9b106be1de91,OK
+43420962,0443.500DR,https://ce8dc832c.cloudimg.io/v7/_cdn_/22/5B/A0/00/0/701730_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=99ff6af5ad734af849c1e33b0d9da7201ddad0e7,OK
+20867753,0454007.MR,https://ce8dc832c.cloudimg.io/v7/_cdn_/23/5B/A0/00/0/701746_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=7763e10d166b50361b3c11cf5ac573a9fa9c4def,OK
+20867828,0465002.DR,https://ce8dc832c.cloudimg.io/v7/_cdn_/F5/2B/A0/00/0/701023_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=95618a0ccc5bb957c54788c2535d2209e88c9f36,OK
+40645626,0473002.mrt1l,https://ce8dc832c.cloudimg.io/v7/_cdn_/FD/2F/70/00/0/520927_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=87b7018d79742c9e79ab20098d0bf09aec68d38a,OK
+34258419,0479480001,,"Eroare: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+"
+20676689,047T008E503,,"Eroare: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+"
+68008119,05-20-A-0050-A,https://ce8dc832c.cloudimg.io/v7/_cdn_/15/58/F0/00/0/1017169_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=0a61f06ca92b9efb35775d4b19be0db0226248bd,OK
+39048075,05-20-A-0101-A,https://ce8dc832c.cloudimg.io/v7/_cdn_/35/58/F0/00/0/1017171_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=2e15ef077bbf577c7669fd1fb979775ccb290364,OK
+30056852,05-20-A-0127-A,https://ce8dc832c.cloudimg.io/v7/_cdn_/45/58/F0/00/0/1017172_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=2167658e6d92a516cf7f34cb6669b5d3e62dea19,OK
+36287706,05059041001,,"Eroare: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+"
+30708362,0521-S,https://ce8dc832c.cloudimg.io/v7/_cdn_/E6/3C/60/00/0/443246_1.jpg?width=640&height=480&wat=1&wat_url=_tme-wrk_%2Ftme_new.png&wat_scale=100p&ci_sign=ae3a949206349820f56f2d96b28ee1332cf20613,OK
+55817307,05306,,"Eroare: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+"
+38405334,,,

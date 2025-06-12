@@ -5,6 +5,11 @@ from tme_scraper import get_tme_image_if_page_exists
 # Citește codurile de produs din fișier .ods
 df_input = pd.read_excel("product_inputs.ods", engine="odf", dtype={"product_code": str})
 
+# Selectează intervalul de linii de procesat
+start_row = 50   # linie de început (0 = prima linie)
+end_row = 100    # linie de sfârșit (inclusiv)
+df_input = df_input.iloc[start_row:end_row + 1]
+
 # Verifică existența rezultatului anterior
 existing_file = "tme_results.csv"
 if os.path.exists(existing_file):
