@@ -28,7 +28,7 @@ wait = WebDriverWait(driver, 10)
 
 for i, row in df.iterrows():
     code = row["product_code"]
-    query = code.replace(",", " ").replace("/", " ")
+    query = str(code).replace(",", " ").replace("/", " ")
     print(f"[{i}] Caut pe DuckDuckGo: {query}")
 
     try:
