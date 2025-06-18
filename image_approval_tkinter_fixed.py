@@ -32,11 +32,29 @@ def show_image(index):
 def approve():
     file = images[current_index]
     shutil.move(os.path.join(INPUT_FOLDER, file), os.path.join(APPROVED_FOLDER, file))
+
+    try:
+        import pandas as pd
+        df = pd.read_csv("tme_results.csv", dtype=str).fillna("")
+        cod = os.path.splitext(file)[0]
+        df.loc[df["product_code"] == cod, "image_url"] = "approved/" + file
+        df.to_csv("tme_results.csv", index=False)
+    except Exception as e:
+        print(f"⚠️ Eroare la scrierea în CSV pentru {file}: {e}")
     next_image()
 
 def reject():
     file = images[current_index]
     shutil.move(os.path.join(INPUT_FOLDER, file), os.path.join(REJECTED_FOLDER, file))
+
+    try:
+        import pandas as pd
+        df = pd.read_csv("tme_results.csv", dtype=str).fillna("")
+        cod = os.path.splitext(file)[0]
+        df.loc[df["product_code"] == cod, "image_url"] = ""
+        df.to_csv("tme_results.csv", index=False)
+    except Exception as e:
+        print(f"⚠️ Eroare la scrierea în CSV pentru {file}: {e}")
     next_image()
 
 def next_image():
